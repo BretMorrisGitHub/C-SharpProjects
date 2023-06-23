@@ -27,11 +27,11 @@ namespace DailyReport.cs
             Console.WriteLine(course);
 
             Console.WriteLine("What page number?");
-            string pageNumber = Console.ReadLine();
+            int pageNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(pageNumber);
 
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\".");
-            string help = Console.ReadLine();
+            bool help = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine(help);
 
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics?");
@@ -43,7 +43,7 @@ namespace DailyReport.cs
             Console.WriteLine(feedback);
 
             Console.WriteLine("How many hours did you study today?");
-            string hours = Console.ReadLine();
+            int hours = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(hours);
 
             // this block of code writes a final message, and keeps it on the console 
