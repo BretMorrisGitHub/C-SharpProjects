@@ -1,0 +1,7 @@
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\AnonymousIncome\AnonymousIncome\bin\Debug\AnonymousIncome.exe.config
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\AnonymousIncome\AnonymousIncome\bin\Debug\AnonymousIncome.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\AnonymousIncome\AnonymousIncome\bin\Debug\AnonymousIncome.pdb
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\AnonymousIncome\AnonymousIncome\obj\Debug\AnonymousIncome.csproj.AssemblyReference.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\AnonymousIncome\AnonymousIncome\obj\Debug\AnonymousIncome.csproj.CoreCompileInputs.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\AnonymousIncome\AnonymousIncome\obj\Debug\AnonymousIncome.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\AnonymousIncome\AnonymousIncome\obj\Debug\AnonymousIncome.pdb
