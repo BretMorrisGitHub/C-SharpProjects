@@ -24,7 +24,7 @@ namespace BooleanLogic
 
             // This compares all of the variables using various operators to determine if person is qualified ot not, and displays result
             Console.WriteLine("Qualified?");
-            bool qualified = age > 15 && dui == false && tickets < 3;
+            bool qualified = age > 15 && dui == false && tickets <= 3;
             Console.WriteLine(qualified);
             Console.ReadLine();
             
