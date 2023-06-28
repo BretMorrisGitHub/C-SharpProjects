@@ -1,0 +1,7 @@
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\OperatorChall\OperatorChall\bin\Debug\OperatorChall.exe.config
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\OperatorChall\OperatorChall\bin\Debug\OperatorChall.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\OperatorChall\OperatorChall\bin\Debug\OperatorChall.pdb
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\OperatorChall\OperatorChall\obj\Debug\OperatorChall.csproj.AssemblyReference.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\OperatorChall\OperatorChall\obj\Debug\OperatorChall.csproj.CoreCompileInputs.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\OperatorChall\OperatorChall\obj\Debug\OperatorChall.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\OperatorChall\OperatorChall\obj\Debug\OperatorChall.pdb
