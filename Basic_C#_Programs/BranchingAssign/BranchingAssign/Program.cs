@@ -45,7 +45,7 @@ namespace BranchingAssign
             }
 
             // Uses math operators to determine the shipping cost
-            decimal quote = Convert.ToDecimal(width * height * length * weight / 100);
+            decimal quote = Convert.ToDecimal(width * height * length * weight / 100f);
 
             // Writes to the console the estimated shipping cost for the user
             Console.WriteLine("Your estimated total for shipping this package is: $" + quote);
