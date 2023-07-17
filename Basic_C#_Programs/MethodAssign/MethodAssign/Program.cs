@@ -26,7 +26,7 @@ namespace MethodAssign
             }
             catch
             {
-                // Calls the 'operation' method with just the first method
+                // Calls the 'operation' method with just the first input
                 Console.WriteLine(obj.operation(input1));
             }
             
