@@ -8,12 +8,9 @@ namespace MethodAssign
 {
     public class Math
     {
-        public int operation(int num, int num2)
+        public int operation(int num, int num2 = 4)
         {
-            if (input2)
-            {
-
-            }
+            return num * num2;
         }
     }
 }

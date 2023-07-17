@@ -5,3 +5,10 @@ C:\Users\BBPAR\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\M
 C:\Users\BBPAR\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\obj\Debug\MethodAssign.csproj.CoreCompileInputs.cache
 C:\Users\BBPAR\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\obj\Debug\MethodAssign.exe
 C:\Users\BBPAR\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\obj\Debug\MethodAssign.pdb
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\bin\Debug\MethodAssign.exe.config
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\bin\Debug\MethodAssign.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\bin\Debug\MethodAssign.pdb
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\obj\Debug\MethodAssign.csproj.AssemblyReference.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\obj\Debug\MethodAssign.csproj.CoreCompileInputs.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\obj\Debug\MethodAssign.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\MethodAssign\MethodAssign\obj\Debug\MethodAssign.pdb
