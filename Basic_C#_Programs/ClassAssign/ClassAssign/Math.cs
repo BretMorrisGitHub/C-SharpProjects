@@ -8,15 +8,16 @@ namespace ClassAssign
 {
     class Math
     {
-        // Defines the method 'operation' as a void method with one parameter, and outputs an integer from a math operation
-        public void operation(int num)
+        // Defines the method 'operation' as a void method with one defined parameter, and an out parameter that is defined inside the method, then outputs an integer from a math operation
+        public void Operation(int num, out int num2)
         {
-            int output = num / 2;
-            Console.WriteLine(output);
+            num2 = 2;
+            int answer = num / num2;
+            Console.WriteLine(answer);
         }
 
-        // Defines an overloaded static void method that has requires two arguments, and has two outputs
-        public static void operation(int num1, int num2)
+        // Defines an overloaded void method that requires two arguments, and has two outputs
+        public void operation(int num1, int num2)
         {
             int output1 = num1 / 3;
             int output2 = num2 / 3;

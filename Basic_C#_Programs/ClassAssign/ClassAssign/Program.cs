@@ -16,7 +16,7 @@ namespace ClassAssign
             Console.WriteLine("Please enter a number to be divided by 2:");
             int input = Convert.ToInt32(Console.ReadLine());
             // Calls the method 'operation' with the user input as the argument
-            obj.operation(input);
+            obj.Operation(input, out int num2);
             // Keeps the console from closing automatically 
             Console.ReadLine();
 
@@ -26,7 +26,12 @@ namespace ClassAssign
             Console.WriteLine("Please enter a second number to be divided 3: ");
             int input2 = Convert.ToInt32(Console.ReadLine());
             // Calls the method using the class name, as it is set to static
-            Math.operation(input1, input2);
+            obj.operation(input1, input2);
+            Console.ReadLine();
+
+            Console.WriteLine("Please enter a number to be multiplied by 13: ");
+            int input3 = Convert.ToInt32(Console.ReadLine());
+            StaticClass.Multiplication(input3);
             Console.ReadLine();
         }
     }
