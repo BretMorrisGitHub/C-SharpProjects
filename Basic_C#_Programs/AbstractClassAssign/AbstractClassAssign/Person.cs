@@ -14,10 +14,7 @@ namespace AbstractClassAssign
         public string lastName { get; set; }
 
         // Creates a method called 'SayName' that puts the values of the name properties together in a readable format to display, and has the keyword 'virtual' so that the method can be implemented in classes that inherit from this class
-        public virtual void SayName()
-        {
-            Console.WriteLine("Name: " + firstName + " " + lastName + ".");
-            Console.ReadLine();
-        }
+        public abstract void SayName();
+        
     }
 }

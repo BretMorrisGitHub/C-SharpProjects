@@ -12,7 +12,10 @@ namespace AbstractClassAssign
         // Implements the 'SayName' method from the 'Person' class using the override keyword
         public override void SayName()
         {
-            base.SayName();
+            
+            Console.WriteLine("Name: " + firstName + " " + lastName + ".");
+            Console.ReadLine();
+            
         }
     }
 }
