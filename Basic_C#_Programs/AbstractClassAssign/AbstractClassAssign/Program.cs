@@ -16,6 +16,10 @@ namespace AbstractClassAssign
             employee.lastName = "Student";
             // Calls the 'SayName' method on the object 
             employee.SayName();
+
+            IQuittable quit = new IQuittable();
+
+            quit.Quit();
         }
     }
 }
