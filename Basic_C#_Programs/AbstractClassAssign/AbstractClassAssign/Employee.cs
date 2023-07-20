@@ -17,6 +17,7 @@ namespace AbstractClassAssign
             Console.ReadLine();
             
         }
+        // Defines the 'Quit' method inherited from the 'IQuittable' interface
         public void Quit()
         {
             Console.WriteLine("Employee has decided to quit.");

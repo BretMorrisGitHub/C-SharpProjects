@@ -17,8 +17,10 @@ namespace AbstractClassAssign
             // Calls the 'SayName' method on the object 
             employee.SayName();
 
-            IQuittable quit = new IQuittable();
+            // Creates an object of type IQuittable 
+            IQuittable quit = new Employee();
 
+            // Calls the 'Quit' method on the 'quit' object
             quit.Quit();
         }
     }

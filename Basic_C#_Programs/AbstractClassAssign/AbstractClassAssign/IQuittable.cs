@@ -8,6 +8,7 @@ namespace AbstractClassAssign
 {
     interface IQuittable
     {
+        // Declares the 'Quit' method
         void Quit();
     }
 }
