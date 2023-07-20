@@ -10,6 +10,7 @@ namespace PolymorphismAssign
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
