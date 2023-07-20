@@ -10,15 +10,9 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Bret";
-            game = game + player;
-
 
             Deck deck = new Deck();
-            deck.Shuffle(30);
+            deck.Shuffle(3);
 
             foreach (Card card in deck.Cards)
             {
