@@ -1,0 +1,7 @@
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\StructAssign\StructAssign\bin\Debug\StructAssign.exe.config
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\StructAssign\StructAssign\bin\Debug\StructAssign.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\StructAssign\StructAssign\bin\Debug\StructAssign.pdb
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\StructAssign\StructAssign\obj\Debug\StructAssign.csproj.AssemblyReference.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\StructAssign\StructAssign\obj\Debug\StructAssign.csproj.CoreCompileInputs.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\StructAssign\StructAssign\obj\Debug\StructAssign.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\StructAssign\StructAssign\obj\Debug\StructAssign.pdb
