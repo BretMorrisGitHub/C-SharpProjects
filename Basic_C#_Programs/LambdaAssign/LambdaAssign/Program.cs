@@ -42,10 +42,18 @@ namespace LambdaAssign
             }
             Console.ReadLine();
 
-            // Using a lambda expression, creates a list called 'newList', and iterates through the list 'employees' to check the 'Id' value if it is greater that 5, and if so, adds it to the 'newList' (while using alot less code to to the same thing as above)
-            List<Employee> newList = employees.Where(x => x.Id > 5).ToList();
-            // This loop prints out the values stored in the 'newList' list
+            // Using a lambda expression, it has the same functionality as the previous code does, but using less code
+            List<Employee> newList = employees.Where(x => x.FirstName == "Joe").ToList();
             foreach (Employee employee1 in newList)
+            {
+                Console.WriteLine(employee1.FirstName + " " + employee1.LastName + " " + employee1.Id);
+            }
+            Console.ReadLine();
+
+            // Using a lambda expression, creates a list called 'newList', and iterates through the list 'employees' to check the 'Id' value if it is greater that 5, and if so, adds it to the 'newList' (while using alot less code than the previous non lambda way)
+            List<Employee> newList1 = employees.Where(x => x.Id > 5).ToList();
+            // This loop prints out the values stored in the 'newList' list
+            foreach (Employee employee1 in newList1)
             {
                 Console.WriteLine(employee1.FirstName + " " + employee1.LastName + " " + employee1.Id);
             }
