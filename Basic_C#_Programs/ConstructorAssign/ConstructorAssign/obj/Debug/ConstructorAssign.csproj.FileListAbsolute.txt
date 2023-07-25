@@ -1,0 +1,6 @@
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\ConstructorAssign\ConstructorAssign\bin\Debug\ConstructorAssign.exe.config
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\ConstructorAssign\ConstructorAssign\bin\Debug\ConstructorAssign.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\ConstructorAssign\ConstructorAssign\bin\Debug\ConstructorAssign.pdb
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\ConstructorAssign\ConstructorAssign\obj\Debug\ConstructorAssign.csproj.CoreCompileInputs.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\ConstructorAssign\ConstructorAssign\obj\Debug\ConstructorAssign.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\ConstructorAssign\ConstructorAssign\obj\Debug\ConstructorAssign.pdb
