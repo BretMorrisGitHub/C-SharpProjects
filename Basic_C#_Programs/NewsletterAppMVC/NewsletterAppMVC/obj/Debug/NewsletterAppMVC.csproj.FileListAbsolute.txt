@@ -51,6 +51,8 @@ C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppM
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\Antlr3.Runtime.dll
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppM
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.WebPages.dll
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\WebGrease.dll
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Helpers.xml
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Mvc.xml
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\System.Web.Optimization.xml
@@ -72,12 +76,7 @@ C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppM
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\Newtonsoft.Json.xml
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\Antlr3.Runtime.pdb
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.AssemblyReference.cache
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
-C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
-C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
-C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
-C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
