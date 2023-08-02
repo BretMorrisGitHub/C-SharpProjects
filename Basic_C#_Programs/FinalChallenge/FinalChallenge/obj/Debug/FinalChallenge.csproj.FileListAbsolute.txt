@@ -1,0 +1,12 @@
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe.config
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.pdb
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.dll
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.xml
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.AssemblyReference.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CopyComplete
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.exe
+C:\Users\legol\Documents\GitHub\C-SharpProjects\Basic_C#_Programs\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.pdb
